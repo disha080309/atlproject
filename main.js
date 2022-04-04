@@ -1,0 +1,3 @@
+function bmicheck(){
+   window.location="";
+}
